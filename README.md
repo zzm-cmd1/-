@@ -30,6 +30,6 @@
 
 - 微信：jjjmmm6648
 - Telegram：[@anesthetizeotter](https://t.me/anesthetizeotter)
-![tg]([image.png](https://github.com/zzm-cmd1/-/blob/main/1741966849829.png))
+![tg]([1741966849829.png])
 
 
