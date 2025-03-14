@@ -28,10 +28,10 @@
 
 ## 联系方式
 
-- 微信：jjjmmm6648
 - Telegram：[@anesthetizeotter](https://t.me/anesthetizeotter)
-- ![tg](1741966849829.png) ![wx](2.jpg)
+- ![tg](1741966849829.png) 
 
 ## 部分项目实战成果
-- ![0](jpg/0 (1).png)
-- ![1](jpg/0 (2).png)
+
+- ![实战成果 0](jpg/001.jpg)
+- !(jpg/002.jpg)
