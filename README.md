@@ -30,7 +30,8 @@
 
 - 微信：jjjmmm6648
 - Telegram：[@anesthetizeotter](https://t.me/anesthetizeotter)
-- ![tg](1741966849829.png) ![wx(2.jpg)
+- ![tg](1741966849829.png) ![wx](2.jpg)
 
 ## 部分项目实战成果
-- ![0](0 (1).png) ![1](0 (2).png)
+- ![0](0 (1).png)
+- ![1](0 (2).png)
