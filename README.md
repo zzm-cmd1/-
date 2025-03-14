@@ -27,9 +27,10 @@
 如果您对这个项目也非常感兴趣，且热爱，请联系我。期待与您共同开创未来！
 
 ## 联系方式
-
+- Wx：jjjmmm6648
+- ![](2.png) 
 - Telegram：[@anesthetizeotter](https://t.me/anesthetizeotter)
-- ![tg](1741966849829.png) 
+- ![](1.png) 
 
 ## 部分项目实战成果
 
